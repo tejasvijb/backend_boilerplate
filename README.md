@@ -1,2 +1,1 @@
-# omni_console
-The console that sees everything
+Backend boilerplate Mongoose, express, typescript
